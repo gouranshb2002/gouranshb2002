@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" alt="Profile Banner" width="100%" />
+  <img src="./banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -7,14 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="./portfolio.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Project_Portfolio-E63946?style=flat&logo=adobeacrobatreader&logoColor=white" height="28" alt="Project Portfolio PDF" />
-  </a>
-  &nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="./portfolio.pdf" target="_blank"><img src="https://img.shields.io/badge/Project_Portfolio-E63946?style=flat&logo=adobeacrobatreader&logoColor=white" height="28" alt="Project Portfolio PDF" /></a>
   <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=Profile+Views&color=2A9D8F&style=flat" height="28" alt="Profile Views" />
 </p>
 ---
