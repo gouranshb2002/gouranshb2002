@@ -20,11 +20,11 @@ Robotics and automation engineer with experience developing **ROS 2** applicatio
 
 **Languages**
 <p>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
 </p>
 
 **Robotics & Computer Vision**
@@ -41,14 +41,14 @@ Robotics and automation engineer with experience developing **ROS 2** applicatio
 
 **Embedded & Systems**
 <p>
-  <img src="https://img.shields.io/badge/FreeRTOS-2E7D32?style=flat" />
-  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Boost_C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-2E7D32?style=flat" />
+  <img src="https://img.shields.io/badge/Boost_C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
 **Platforms & Tools**
@@ -73,10 +73,29 @@ Robotics and automation engineer with experience developing **ROS 2** applicatio
 ### 🔹 [Robust AMR Navigation under Dynamic Obstacles & Sensor Failures](https://github.com/gouranshb2002/amr_dynamic_nav2)
 > **Status:** In Progress (Phase 0) &nbsp;|&nbsp; **Focus:** ROS 2 Jazzy • Nav2 • C++ Costmap Plugin
 
-Building a simulated differential-drive warehouse AMR in **Gazebo Harmonic** with a custom **C++ Nav2 Costmap2D prediction layer** that tracks moving obstacles from 2D LiDAR scans and projects their near-term motion—benchmarked against standard reactive navigation under controlled sensor-delay faults.
+Building a simulated differential-drive warehouse AMR in **Gazebo Harmonic** with a custom **C++ Nav2 Costmap2D prediction layer** that tracks moving obstacles from 2D LiDAR scans and projects their near-term motion-benchmarked against standard reactive navigation under controlled sensor-delay faults.
 
 - **Key Components:** LiDAR scan clustering & constant-velocity tracking, custom `Costmap2D` swept-risk plugin, timestamp-preserving LiDAR delay relay, and a paired Python benchmark suite.
 - **Tech Stack:** `ROS 2 Jazzy` `Gazebo Harmonic` `Nav2` `C++` `Eigen` `Python` `Ubuntu 24.04`
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technology Stack |
+| :--- | :--- | :--- |
+| **[Two-Robot Delivery System](https://github.com/gouranshb2002/REPO_1)** | Integrated computer vision, autonomous navigation, and joint-trajectory control for a mobile robot + manipulator system, deployed from Gazebo simulation to physical hardware. | `ROS 2` `Python` `Gazebo` `OpenCV` `Nav2` |
+| **[Warehouse Simulation](https://github.com/gouranshb2002/REPO_2)** | Discrete-event and agent-based warehouse operations model simulating material flow, order throughput, and resource allocation. | `Java` `AnyLogic` |
+| **[Demand Forecasting Pipeline](https://github.com/gouranshb2002/REPO_3)** | Machine learning pipeline for time-series demand forecasting and inventory planning. | `Python` `XGBoost` `pandas` |
+
+## 🚀 Featured Projects
+
+| Project | Description | Technology Stack |
+| :--- | :--- | :--- |
+| **[Two-Robot Delivery System](https://github.com/gouranshb2002/REPO_1)** | Integrated computer vision, navigation, and joint-trajectory control across a mobile robot and manipulator, from Gazebo simulation to hardware deployment. | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat&logo=gazebo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **[Warehouse Simulation](https://github.com/gouranshb2002/REPO_2)** | Warehouse operations simulation modeling order flow, bottlenecks, and fleet/resource utilization. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![AnyLogic](https://img.shields.io/badge/AnyLogic-00A0DF?style=flat) |
+| **[Demand Forecasting](https://github.com/gouranshb2002/REPO_3)** | End-to-end demand forecasting model built to predict inventory requirements and reduce stockouts. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat) |
+
+
 
 ---
 # Hi 👋, I'm Gouransh Bhatnagar
