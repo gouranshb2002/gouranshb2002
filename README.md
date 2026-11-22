@@ -91,23 +91,12 @@ Building a simulated differential-drive warehouse AMR in **Gazebo Harmonic** wit
 
 ## 📫 Contact
 
-I am open to **engineering roles** and **Master's thesis** opportunities in robotics, autonomous systems, and automation. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:gouransh.bhatnagar@stud.th-deg.de"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/gouranshbhatnagar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
-  <a href="./portfolio.pdf" target="_blank"><img src="https://img.shields.io/badge/Project_Portfolio-E63946?style=flat&logo=adobeacrobatreader&logoColor=white" height="28" alt="Project Portfolio" /></a>
-</p>
----
-
-## 📫 Contact
-
 Open to **engineering roles** and **Master's thesis** opportunities in robotics, autonomous systems, and automation.
 
 - **Email:** [gouransh.bhatnagar@stud.th-deg.de](mailto:gouransh.bhatnagar@stud.th-deg.de)
 - **LinkedIn:** [linkedin.com/in/gouranshbhatnagar](https://www.linkedin.com/in/gouranshbhatnagar/)
 - **Portfolio:** [View Project Portfolio (PDF)](./portfolio.pdf)
----
+
 # Hi 👋, I'm Gouransh Bhatnagar
 
 <p align="left"> 
