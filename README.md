@@ -1,3 +1,20 @@
+<div align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
 # Hi 👋, I'm Gouransh Bhatnagar
 
 <p align="left"> 
