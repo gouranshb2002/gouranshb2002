@@ -14,7 +14,35 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
+---
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
+</p>
 
+<h3 align="center">Robotics • Computer Vision • Embedded Systems</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+---
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Robotics+%26+Computer+Vision+Engineer;Embedded+Systems+Developer;Building+Autonomous+Systems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=PROFILE+VIEWS&color=2ea44f&style=flat-square" />
+</p>
+---
 # Hi 👋, I'm Gouransh Bhatnagar
 
 <p align="left"> 
