@@ -1,46 +1,21 @@
-<div align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" />
-
-  <br/><br/>
-
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</div>
----
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" />
-</p>
-
-<h3 align="center">Robotics • Computer Vision • Embedded Systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
----
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%" />
+  <img src="./banner.jpeg" alt="Profile Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Robotics+%26+Computer+Vision+Engineer;Embedded+Systems+Developer;Building+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=550&lines=Robotics+%26+Computer+Vision+Engineer;Embedded+Systems+Developer;Building+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=PROFILE+VIEWS&color=2ea44f&style=flat-square" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="./portfolio.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Portfolio-E63946?style=flat&logo=adobeacrobatreader&logoColor=white" height="28" alt="Project Portfolio PDF" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=Profile+Views&color=2A9D8F&style=flat" height="28" alt="Profile Views" />
 </p>
 ---
 # Hi 👋, I'm Gouransh Bhatnagar
