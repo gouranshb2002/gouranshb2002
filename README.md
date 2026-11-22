@@ -89,7 +89,24 @@ Building a simulated differential-drive warehouse AMR in **Gazebo Harmonic** wit
 | **[Autonomous Truck Architecture & Platooning](https://github.com/gouranshb2002/Autonomous_Truck_Architecture_and_Platooning.git)** | Concept architecture for hub-to-hub autonomous trucking (200 m LiDAR, radar, cameras, redundant drive-by-wire) with a hybrid MPC–DRL V2V platooning strategy (10–15% projected fuel savings at 15 m spacing). | `Sensor Fusion` `MPC` `DRL` `V2V` |
 | **[Multi-Vegetable Automatic Transplanter](https://github.com/gouranshb2002/Multi-Vegetable_Automatic_Transplanter.git)** | Led design and testing of a tractor-mounted 2-row working prototype (~€784) using a Geneva mechanism at 60 seedlings/min; named co-inventor on granted Indian Patent 559564. | `Mechanical Design` `Geneva Mechanism` `Prototyping` |
 
+## 📫 Contact
 
+I am open to **engineering roles** and **Master's thesis** opportunities in robotics, autonomous systems, and automation. Feel free to reach out!
+
+<p align="center">
+  <a href="mailto:gouransh.bhatnagar@stud.th-deg.de"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="28" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gouranshbhatnagar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+  <a href="./portfolio.pdf" target="_blank"><img src="https://img.shields.io/badge/Project_Portfolio-E63946?style=flat&logo=adobeacrobatreader&logoColor=white" height="28" alt="Project Portfolio" /></a>
+</p>
+---
+
+## 📫 Contact
+
+Open to **engineering roles** and **Master's thesis** opportunities in robotics, autonomous systems, and automation.
+
+- **Email:** [gouransh.bhatnagar@stud.th-deg.de](mailto:gouransh.bhatnagar@stud.th-deg.de)
+- **LinkedIn:** [linkedin.com/in/gouranshbhatnagar](https://www.linkedin.com/in/gouranshbhatnagar/)
+- **Portfolio:** [View Project Portfolio (PDF)](./portfolio.pdf)
 ---
 # Hi 👋, I'm Gouransh Bhatnagar
 
