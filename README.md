@@ -62,7 +62,32 @@ Robotics and automation engineer with experience developing **ROS 2** applicatio
   <img src="https://img.shields.io/badge/CATIA_V5-005386?style=flat&logo=dassaultsystemes&logoColor=white" />
   <img src="https://img.shields.io/badge/ANSYS-FFB71B?style=flat&logo=ansys&logoColor=black" />
 </p>
+---
+## 🚧 Currently Building
 
+### 🔹 [Robust AMR Navigation under Dynamic Obstacles & Sensor Failures](https://github.com/gouranshb2002/amr_dynamic_nav2)
+> **Status:** In Progress (Phase 0) &nbsp;|&nbsp; **Focus:** ROS 2 Jazzy • Nav2 • C++ Costmap Plugin
+
+Building a simulated differential-drive warehouse AMR in **Gazebo Harmonic** with a custom **C++ Nav2 Costmap2D prediction layer** that tracks moving obstacles from 2D LiDAR scans and projects their near-term motion—benchmarked against standard reactive navigation under controlled sensor-delay faults.
+
+- **Key Components:** LiDAR scan clustering & constant-velocity tracking, custom `Costmap2D` swept-risk plugin, timestamp-preserving LiDAR delay relay, and a paired Python benchmark suite.
+- **Tech Stack:** `ROS 2 Jazzy` `Gazebo Harmonic` `Nav2` `C++` `Eigen` `Python` `Ubuntu 24.04`
+---
+## 🚧 Currently Building
+
+<a href="https://github.com/gouranshb2002/amr_dynamic_nav2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gouranshb2002&repo=amr_dynamic_nav2&theme=transparent&hide_border=false" alt="amr_dynamic_nav2" />
+</a>
+
+- **Goal:** Compare a custom C++ constant-velocity obstacle prediction layer against reactive Nav2 navigation under crossing obstacles and controlled LiDAR latency.
+- **Current Stage:** Phase 0 — Environment setup, version pinning, and headless simulation smoke test.
+- **Tech Stack:** `ROS 2 Jazzy` `Gazebo Harmonic` `Nav2` `C++` `Eigen` `Python`
+---
+## 🚧 Currently Building
+
+| Project | Details |
+| :--- | :--- |
+| **[amr_dynamic_nav2](https://github.com/gouranshb2002/amr_dynamic_nav2)**<br>`In Progress · Phase 0` | **Description:** Differential-drive warehouse AMR in Gazebo Harmonic with a custom C++ Nav2 prediction costmap layer and delayed-LiDAR fault evaluation.<br>**Key Focus:** 2D LiDAR tracking, swept-risk costmap projection, paired reactive vs. predictive benchmarking.<br>**Stack:** `ROS 2 Jazzy` · `Gazebo Harmonic` · `Nav2` · `C++` · `Eigen` · `Python` |
 ---
 # Hi 👋, I'm Gouransh Bhatnagar
 
