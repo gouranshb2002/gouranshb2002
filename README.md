@@ -11,6 +11,49 @@
   <a href="./portfolio.pdf" target="_blank"><img src="https://img.shields.io/badge/Project_Portfolio-E63946?style=flat&logo=adobeacrobatreader&logoColor=white" height="28" alt="Project Portfolio PDF" /></a>
   <img src="https://komarev.com/ghpvc/?username=gouranshb2002&label=Profile+Views&color=2A9D8F&style=flat" height="28" alt="Profile Views" />
 </p>
+
+## 👨‍💻 About Me
+
+Robotics and automation engineer with experience developing **ROS 2** applications in **Python** for mobile robots and robotic manipulators. Integrated **computer vision, navigation, and joint-trajectory control** in a two-robot delivery system, from **Gazebo** simulation to hardware deployment. Further experience includes **Docker** containerisation, warehouse simulation using **Java** and **AnyLogic**, and demand forecasting with **XGBoost**.
+
+🎯 *Currently seeking engineering roles or a Master's thesis across robotics, autonomous systems, and automation.*
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+</p>
+
+**Robotics & Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=flat&logo=gazebo&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" />
+</p>
+
+**Embedded Systems & Hardware**
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat&logo=nvidia&logoColor=white" />
+</p>
+
+**Platforms & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
+</p>
 ---
 # Hi 👋, I'm Gouransh Bhatnagar
 
