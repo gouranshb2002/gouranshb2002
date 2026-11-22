@@ -83,18 +83,11 @@ Building a simulated differential-drive warehouse AMR in **Gazebo Harmonic** wit
 
 | Project | Description | Technology Stack |
 | :--- | :--- | :--- |
-| **[Two-Robot Delivery System](https://github.com/gouranshb2002/REPO_1)** | Integrated computer vision, autonomous navigation, and joint-trajectory control for a mobile robot + manipulator system, deployed from Gazebo simulation to physical hardware. | `ROS 2` `Python` `Gazebo` `OpenCV` `Nav2` |
-| **[Warehouse Simulation](https://github.com/gouranshb2002/REPO_2)** | Discrete-event and agent-based warehouse operations model simulating material flow, order throughput, and resource allocation. | `Java` `AnyLogic` |
-| **[Demand Forecasting Pipeline](https://github.com/gouranshb2002/REPO_3)** | Machine learning pipeline for time-series demand forecasting and inventory planning. | `Python` `XGBoost` `pandas` |
-
-## 🚀 Featured Projects
-
-| Project | Description | Technology Stack |
-| :--- | :--- | :--- |
-| **[Two-Robot Delivery System](https://github.com/gouranshb2002/REPO_1)** | Integrated computer vision, navigation, and joint-trajectory control across a mobile robot and manipulator, from Gazebo simulation to hardware deployment. | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat&logo=gazebo&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
-| **[Warehouse Simulation](https://github.com/gouranshb2002/REPO_2)** | Warehouse operations simulation modeling order flow, bottlenecks, and fleet/resource utilization. | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![AnyLogic](https://img.shields.io/badge/AnyLogic-00A0DF?style=flat) |
-| **[Demand Forecasting](https://github.com/gouranshb2002/REPO_3)** | End-to-end demand forecasting model built to predict inventory requirements and reduce stockouts. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat) |
-
+| **[Collaborative AI Delivery System](https://github.com/gouranshb2002/Collaborative_AI_Delivery_System)** | Two-robot delivery system (2× TurtleBot3 Waffle + OpenManipulator-X) with QR-code detection, 10 Hz navigation, and arm/gripper trajectory control across 4 pickup zones; deployed from Gazebo to hardware. | `ROS 2` `Python` `OpenCV` `Gazebo` `Docker` `TurtleBot3` `OpenManipulator-X` |
+| **[Dynamic Task Allocation for Smart Warehouse](./portfolio.pdf)** | Built an AnyLogic simulation coordinating 10 AGVs and 4 forklifts via priority-weighted dispatch and state-machine agents, increasing simulated throughput by 11% and cutting fulfilment time by 10s/order. | `AnyLogic` `Java` `Discrete-Event Simulation` `State Machines` |
+| **[Motion Model Analysis for Pose Estimation](./portfolio.pdf)** | Python ROS 2 node comparing open-loop velocity integration vs. wheel-odometry feedback for TurtleBot3 in Dockerised Gazebo, quantifying 5% trajectory deviation (0.5 m over 10 m) from wheel slip and actuator dynamics. | `ROS 2` `Python` `Gazebo` `Docker` `TurtleBot3` |
+| **[Autonomous Truck Architecture & Platooning](./portfolio.pdf)** | Concept architecture for hub-to-hub autonomous trucking (200 m LiDAR, radar, cameras, redundant drive-by-wire) with a hybrid MPC–DRL V2V platooning strategy (10–15% projected fuel savings at 15 m spacing). | `Sensor Fusion` `MPC` `DRL` `V2V` |
+| **[Multi-Vegetable Automatic Transplanter](./portfolio.pdf)** | Led design and testing of a tractor-mounted 2-row working prototype (~€784) using a Geneva mechanism at 60 seedlings/min; named co-inventor on granted Indian Patent 559564. | `Mechanical Design` `Geneva Mechanism` `Prototyping` |
 
 
 ---
