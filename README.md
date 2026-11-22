@@ -16,8 +16,6 @@
 
 Robotics and automation engineer with experience developing **ROS 2** applications in **Python** for mobile robots and robotic manipulators. Integrated **computer vision, navigation, and joint-trajectory control** in a two-robot delivery system, from **Gazebo** simulation to hardware deployment. Further experience includes **Docker** containerisation, warehouse simulation using **Java** and **AnyLogic**, and demand forecasting with **XGBoost**.
 
-🎯 *Currently seeking engineering roles or a Master's thesis across robotics, autonomous systems, and automation.*
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -54,6 +52,16 @@ Robotics and automation engineer with experience developing **ROS 2** applicatio
   <img src="https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
 </p>
+---
+## 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+| **Robotics & Vision** | ![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat&logo=gazebo&logoColor=white) |
+| **Embedded** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) |
+| **Platforms & Tools** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white) |
+| **Protocols & CAD** | ![UART/SPI/I2C](https://img.shields.io/badge/UART%20%7C%20SPI%20%7C%20I2C-4B5563?style=flat) ![CAN Bus](https://img.shields.io/badge/CAN_Bus-4B5563?style=flat) ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=flat) |
 ---
 # Hi 👋, I'm Gouransh Bhatnagar
 
